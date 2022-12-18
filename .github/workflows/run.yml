@@ -6,11 +6,6 @@ on:
   schedule:
     - cron: "10 01,13 * * *"
     - cron: "21 8,20 * * *"
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - "**/README.md"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -37,7 +32,7 @@ jobs:
           echo "ADGUARD_2=https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt" >> $GITHUB_ENV
           echo "ADGUARD_3=https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt" >> $GITHUB_ENV
           echo "ADGUARD_4=https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt" >> $GITHUB_ENV   
-          echo "ADGUARD_5=https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker" >> $GITHUB_ENV
+       #  echo "ADGUARD_5=https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker" >> $GITHUB_ENV
           echo "DANPOLLOCK_REJECT_URL=https://someonewhocares.org/hosts/hosts" >> $GITHUB_ENV
           echo "CUSTOM_DIRECT=https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/cn.txt" >> $GITHUB_ENV
           echo "CUSTOM_PROXY=https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/geolocation-!cn.txt" >> $GITHUB_ENV
