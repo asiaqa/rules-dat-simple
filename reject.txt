@@ -5,3 +5,17 @@ wpad.weberstephen.com
 amazonaax.com
 analyticsengine.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
+ads.facebook.com
+ads-api.twitter.com
+ads.pinterest.com
+widgets.pinterest.com
+ads.reddit.com
+ads.youtube.com
+doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+media.fastclick.net
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
