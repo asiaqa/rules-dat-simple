@@ -28,3 +28,4 @@ telegra.ph
 tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
+news-app.abumedia.yql.yahoo.com
