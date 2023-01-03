@@ -5,6 +5,7 @@ alimama.alicdn.com
 alimama.com
 analytics.google.com
 app.chat.xiaomi.net
+news-app.abumedia.yql.yahoo.com
 bdtj.tagtic.cn
 click.redditmail.com
 ctrip.com
