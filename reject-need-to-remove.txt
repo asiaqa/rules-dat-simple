@@ -30,3 +30,4 @@ tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
 news-app.abumedia.yql.yahoo.com
+ncp-gw-abu.media.yahoo.com
