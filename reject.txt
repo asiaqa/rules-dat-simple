@@ -19,3 +19,4 @@ mediavisor.doubleclick.net
 media.fastclick.net
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
+adtago.s3.amazonaws.com
